@@ -3,4 +3,7 @@ Hello World!
 master 브랜치에서 수장한 내용입니다.
 conflict-branch에서 수정한 내용입니다.
 master 브랜치에서 수장한 내용입니다.
+HEAD
 master에서 새로운 내용 추가
+conflict-branch에서 다른 내용 추가
+ conflict-branch
